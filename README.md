@@ -108,7 +108,7 @@ bash sh/eval_gpqa.sh eval
 To evaluate your own model, you can set "MODEL_NAME" (a valid huggingface model name), "TP_SIZE" and "TEMPERATURE" in "eval_custom_model.sh".
 
 ```bash
-bash sh/eval_custom_model.sh
+bash sh/eval_huggingface_model.sh
 ```
 
 Thanks for the open source code of [OpenCompass](https://github.com/open-compass/opencompass).

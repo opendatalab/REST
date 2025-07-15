@@ -2,7 +2,7 @@
 <h1>📉 REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once</h1>
 
 [📖 Arxiv](https://arxiv.org/abs/2507.10541) |
-[📊 Leaderboard](https://github.com/opendatalab.github.io/REST) |
+[📊 Leaderboard](https://opendatalab.github.io/REST) |
 [🚀 Quick Start](https://github.com/opendatalab/REST/tree/main?tab=readme-ov-file#-quick-start)
 </div>
 

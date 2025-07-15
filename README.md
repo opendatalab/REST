@@ -7,7 +7,7 @@
 </div>
 
 <p align="center" width="100%">
-<a ><img src="./asset/REST.jpg" alt="REST" style="width: 90%; min-width: 300px; display: block; margin: auto;"></a>
+<a ><img src="./asset/overview.png" alt="Overview" style="width: 90%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
 ## 📝 Key Takeaways

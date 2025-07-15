@@ -136,3 +136,4 @@ core.*
 # stress test
 backup/
 stress_test_data/
+!asset/REST.jpg

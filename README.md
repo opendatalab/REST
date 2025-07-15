@@ -118,10 +118,13 @@ Thanks for the open source code of [OpenCompass](https://github.com/open-compass
 Please cite the paper if you refer to our code, result or paper.
 
 ```
-@article{REST,
-  title={REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once},
-  author={Zhuoshi Pan, Qizhi Pei, Yu Li, QiYao Sun, Zinan Tang, H. Vicky Zhao, Lijun Wu, Conghui He},
-  journal={arXiv preprint arXiv:},
-  year={2025}
+@misc{pan2025REST,
+    title={REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once}, 
+    author={Zhuoshi Pan and Qizhi Pei and Yu Li and Qiyao Sun and Zinan Tang and H. Vicky Zhao and Conghui He and Lijun Wu},
+    year={2025},
+    eprint={2507.10541},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2507.10541}, 
 }
 ```

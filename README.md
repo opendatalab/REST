@@ -1,9 +1,32 @@
 <div align="center">
 <h1>📉 REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once</h1>
 
-[📖 Arxiv](https://arxiv.org/abs/2507.10541) |
-[📊 Leaderboard](https://opendatalab.github.io/REST) |
-[🚀 Quick Start](https://github.com/opendatalab/REST/tree/main?tab=readme-ov-file#-quick-start)
+<p align="center">
+  <a href="https://github.com/opendatalab/REST">
+    <img
+      src="https://img.shields.io/badge/REST-Gtihub-blue?logo=github"
+      alt="GitHub Repo"
+    />
+  </a>
+  <a href="https://arxiv.org/abs/2507.10541">
+    <img
+      src="https://img.shields.io/badge/REST-Paper-red?logo=arxiv&logoColor=red"
+      alt="Paper on arXiv"
+    />
+  </a>
+  <a href="https://opendatalab.github.io/REST">
+    <img
+      src="https://img.shields.io/badge/REST-Project_Page-purple?logo=homepage&logoColor=violet"
+      alt="OpenCompass Discord"
+    />
+  </a>
+    <a href="https://github.com/opendatalab/REST/tree/main?tab=readme-ov-file#-quick-start">
+    <img 
+        src="https://img.shields.io/badge/REST-Quick_Start-yellow?logo=rocket&logoColor=yellow" 
+        alt="Quick Start"
+    />
+    </a>
+</p>
 </div>
 
 <p align="center" width="100%">
@@ -117,7 +140,7 @@ Thanks for the open source code of [OpenCompass](https://github.com/open-compass
 
 Please cite the paper if you refer to our code, result or paper.
 
-```
+```bibtex
 @misc{pan2025REST,
     title={REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once}, 
     author={Zhuoshi Pan and Qizhi Pei and Yu Li and Qiyao Sun and Zinan Tang and H. Vicky Zhao and Conghui He and Lijun Wu},
